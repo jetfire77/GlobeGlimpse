@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+"GlobeGlimpse: A Cutting-Edge Web Application for Global News Discovery
+
+## Overview
+
+GlobeGlimpse is a dynamic web application that connects users with the latest news stories from across the globe. Our platform harnesses the power of NewsAPI to curate a diverse selection of high-quality news articles from reputable sources, presenting them through a user-friendly and intuitive interface.
+
+Key Features:
+
+1 Comprehensive News Coverage: GlobeGlimpse provides users with access to a rich and diverse array of news articles, spanning a wide range of topics, including sports, entertainment, politics, and more. Our platform ensures that users stay informed about the latest developments in their areas of interest.
+
+2 Advanced Filtering Options: One of GlobeGlimpse's standout features is its robust filtering system, enabling users to precisely tailor their news feed. With the ability to sort articles by category, users can easily discover content that aligns with their preferences and stay updated on the topics that matter most to them.
+
+3 Seamless Browsing Experience: We've incorporated infinite scrolling functionality to enhance the user experience. This feature enables users to effortlessly explore an uninterrupted stream of news articles, ensuring that they can delve deep into the latest stories without any interruptions.
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +81,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
