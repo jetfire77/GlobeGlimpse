@@ -1,4 +1,4 @@
-# "GlobeGlimpse: A Cutting-Edge Web Application for Global News Discovery
+# GlobeGlimpse: A Cutting-Edge Web Application for Global News Discovery
 
 ## Overview
 
