@@ -12,6 +12,10 @@ Key Features:
 
 3 Seamless Browsing Experience: We've incorporated infinite scrolling functionality to enhance the user experience. This feature enables users to effortlessly explore an uninterrupted stream of news articles, ensuring that they can delve deep into the latest stories without any interruptions.
 
+## Screenshots
+
+![Alt text](\screenshot\sn1.jpg?raw=true "Optional Title")
+
 <!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
