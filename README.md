@@ -14,7 +14,7 @@ Key Features:
 
 ## Screenshots
 
-![Alt text](https://jetfire77.github.com/GlobeGlimpse/master/screenshot/sn1.png.png)
+![Alt text](https://github.com/jetfire77/GlobeGlimpse/blob/main/screenshot/sn1.png)
 
 <!-- # Getting Started with Create React App
 
