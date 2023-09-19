@@ -14,7 +14,7 @@ Key Features:
 
 ## Screenshots
 
-![Alt text](/screenshot
+![Alt text](screenshot
 /sn1.png?raw=true "Optional Title")
 
 <!-- # Getting Started with Create React App
