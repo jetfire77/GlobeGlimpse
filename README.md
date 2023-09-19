@@ -16,6 +16,8 @@ Key Features:
 
 ![Alt text](https://github.com/jetfire77/GlobeGlimpse/blob/main/screenshot/sn1.png)
 
+![Alt text](https://github.com/jetfire77/GlobeGlimpse/blob/main/screenshot/sn2.png)
+
 <!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
