@@ -16,6 +16,9 @@ Key Features:
 
 ![Alt text](https://github.com/jetfire77/GlobeGlimpse/blob/main/screenshot/sn1.png)
 
+
+*** 
+
 ![Alt text](https://github.com/jetfire77/GlobeGlimpse/blob/main/screenshot/sn2.png)
 
 ![Alt text](https://github.com/jetfire77/GlobeGlimpse/blob/main/screenshot/sn3.png)
