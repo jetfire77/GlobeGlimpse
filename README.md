@@ -14,8 +14,7 @@ Key Features:
 
 ## Screenshots
 
-![Alt text](\screenshot
-\sn1.png?raw=true "Optional Title")
+![Alt text](https://jetfire77.github.com/GlobeGlimpse/master/screenshot/sn1.png.png)
 
 <!-- # Getting Started with Create React App
 
