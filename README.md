@@ -13,18 +13,28 @@ Key Features:
 3 Seamless Browsing Experience: We've incorporated infinite scrolling functionality to enhance the user experience. This feature enables users to effortlessly explore an uninterrupted stream of news articles, ensuring that they can delve deep into the latest stories without any interruptions.
 
 ## Screenshots
-
+<pre>
+</pre>
 ![Alt text](https://github.com/jetfire77/GlobeGlimpse/blob/main/screenshot/sn1.png)
 
 <pre>
 </pre>
-*** 
+
 
 ![Alt text](https://github.com/jetfire77/GlobeGlimpse/blob/main/screenshot/sn2.png)
 
+<pre>
+</pre>
+
 ![Alt text](https://github.com/jetfire77/GlobeGlimpse/blob/main/screenshot/sn3.png)
 
+<pre>
+</pre>
+
 ![Alt text](https://github.com/jetfire77/GlobeGlimpse/blob/main/screenshot/sn4.png)
+
+<pre>
+</pre>
 
 <!-- # Getting Started with Create React App
 
